@@ -1,0 +1,2 @@
+# Article II, Section 1. Elections to be by secret ballot; protection of right of suffrage.
+All elections by the people shall be by secret ballot, but the ballots shall not be counted in secret. The right of suffrage, as regulated in this Constitution, shall be protected by laws regulating elections and prohibiting, under adequate penalties, all undue influence from power, bribery, tumult, or improper conduct. (1970 (56) 2691; 1971 (57) 319.)

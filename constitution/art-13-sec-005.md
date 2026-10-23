@@ -1,0 +1,2 @@
+# Article XIII, Section 5. Confederate pensions.
+The General Assembly is hereby empowered and required, at its first session after the adoption of this Constitution, to provide such proper and liberal legislation as will guarantee and secure an annual pension to every indigent or disabled Confederate soldier and sailor of this State and of the late Confederate States who are citizens of this State, and also to the indigent widows of Confederate soldiers and sailors.

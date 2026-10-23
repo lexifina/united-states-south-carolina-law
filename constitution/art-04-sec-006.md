@@ -1,0 +1,2 @@
+# Article IV, Section 6. Succession when Governor-elect dies, declines to serve, or fails to take oath.
+If the Governor-elect dies or declines to serve, the Lieutenant Governor-elect shall become Governor for a full term. If the Governor-elect fails to take the oath of office at the commencement of his term, the Lieutenant Governor shall act as Governor until the oath is administered. (1972 (57) 3171; 1973 (58) 48.)

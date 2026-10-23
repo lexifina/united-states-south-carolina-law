@@ -1,0 +1,2 @@
+# Article V, Section 2. Supreme Court.
+The Supreme Court shall consist of a Chief Justice and four Associate Justices, any three of whom shall constitute a quorum for the transaction of business. The Chief Justice shall preside, and in his absence the senior Associate Justice. In all cases decided by the Supreme Court, the concurrence of three of the Justices shall be necessary for a reversal of the judgment below. (1972 (57) 3176; 1973 (58) 161; 1985 Act No. 9.)

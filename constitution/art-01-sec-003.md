@@ -1,0 +1,2 @@
+# Article I, Section 3. Privileges and immunities; due process; equal protection of laws.
+The privileges and immunities of citizens of this State and of the United States under this Constitution shall not be abridged, nor shall any person be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws. (1970 (56) 2684; 1971 (57) 315.)

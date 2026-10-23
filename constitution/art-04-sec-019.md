@@ -1,0 +1,2 @@
+# Article IV, Section 19. Extra sessions; Governor may adjourn General Assembly.
+The Governor may on extraordinary occasions convene the General Assembly in extra session. Should either house remain without a quorum for five days, or in case of disagreement between the two houses during any session with respect to the time of adjournment, he may adjourn them to such times as he shall think proper, not beyond the time of the annual session then next ensuing. (1972 (57) 3171; 1973 (58) 48.)

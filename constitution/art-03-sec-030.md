@@ -1,0 +1,2 @@
+# Article III, Section 30. Extra compensation not permitted; appropriations for repelling invasion.
+The General Assembly shall never grant extra compensation, fee or allowance to any public officer, agent, servant or contractor after service rendered, or contract made, nor authorize payment or part payment of any claim under any contract not authorized by law; but appropriations may be made for expenditures in repelling invasion, preventing or suppressing insurrection.

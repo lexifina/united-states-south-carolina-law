@@ -1,0 +1,2 @@
+# Article V, Section 17. Removal or retirement of judges.
+Within the unified court system, the Supreme Court shall have power, after hearing, to remove or retire any judge from office upon a finding of disability seriously interfering with the performance of his duties which is, or is likely to become, of a permanent character. A Justice shall not sit in any hearing involving his own removal or retirement. Implementation and enforcement of this section may be by rule or order of the Supreme Court. (1972 (57) 3176; 1973 (58) 161; 1985 Act No. 9.)

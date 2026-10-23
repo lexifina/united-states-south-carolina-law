@@ -1,0 +1,2 @@
+# Article III, Section 29. Determining personal and real property taxes.
+Taxes on personal property must be laid upon the actual value of the property taxed, as the same shall be ascertained by an assessment made for the purpose of laying such tax. Taxes on real property must be ascertained by the methods provided by the General Assembly by general law as prescribed in Article X of this Constitution. (2007 Act No. 12.)

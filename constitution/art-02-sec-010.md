@@ -1,0 +1,2 @@
+# Article II, Section 10. Nominations; conduct of elections; contests.
+The General Assembly shall provide for the nomination of candidates, regulate the time, place and manner of elections, provide for the administration of elections and for absentee voting, insure secrecy of voting, establish procedures for contested elections, and enact other provisions necessary to the fulfillment and integrity of the election process. (1970 (56) 2691; 1971 (57) 319.)

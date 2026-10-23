@@ -1,0 +1,2 @@
+# Article III, Section 19. Mileage; increase of per diem; compensation during extra session.
+Each member of the General Assembly shall receive such mileage allowance for the ordinary route of travel in going to and returning from the place where its sessions are held as the General Assembly may provide by law; no General Assembly shall have the power to increase the per diem of its own members; and members of the General Assembly when convened in extra session shall receive the same compensation as is fixed by law for the regular session. (1954 (48) 1856; 1955 (49) 75.)

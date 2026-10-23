@@ -1,0 +1,3 @@
+# Article I, Section 25. Hunting and fishing.
+The traditions of hunting and fishing are valuable parts of the state's heritage, important for conservation, and a protected means of managing nonthreatened wildlife. The citizens of this State have the right to hunt, fish, and harvest wildlife traditionally pursued, subject to laws and regulations promoting sound wildlife conservation and management as prescribed by the General Assembly. Nothing in this section shall be construed to abrogate any private property rights, existing state laws or regulations, or the state's sovereignty over its natural resources.
+HISTORY: 2011 Act No. 20, § 1, eff May 5, 2011.

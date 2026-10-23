@@ -1,0 +1,3 @@
+# Article VIII, Section 14. General law provisions not to be set aside.
+In enacting provisions required or authorized by this article, general law provisions applicable to the following matters shall not be set aside:
+(1) The freedoms guaranteed every person; (2) election and suffrage qualifications; (3) bonded indebtedness of governmental units; (4) the structure for and the administration of the State's judicial system; (5) criminal laws and the penalties and sanctions for the transgression thereof; and (6) the structure and the administration of any governmental service or function, responsibility for which rests with the State government or which requires statewide uniformity. (1972 (57) 3184; 1973 (58) 67.)

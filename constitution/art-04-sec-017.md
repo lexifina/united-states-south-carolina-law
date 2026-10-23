@@ -1,0 +1,2 @@
+# Article IV, Section 17. Duty of State officers to give information to Governor.
+All State officers, agencies, and institutions within the Executive Branch shall, when required by the Governor, give him information in writing upon any subject relating to the duties and functions of their respective offices, agencies, and institutions, including itemized accounts of receipts and disbursements. (1972 (57) 3171; 1973 (58) 48.)

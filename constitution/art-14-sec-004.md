@@ -1,0 +1,2 @@
+# Article XIV, Section 4. Navigable waters free; tax for use of wharf.
+All navigable waters shall forever remain public highways free to the citizens of the State and the United States without tax, impost or toll imposed; and no tax, toll, impost or wharfage shall be imposed, demanded or received from the owners of any merchandise or commodity for the use of the shores or any wharf erected on the shores or in or over the waters of any navigable stream unless the same be authorized by the General Assembly. (1970 (56) 2684; 1971 (57) 315.)

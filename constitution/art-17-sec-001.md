@@ -1,0 +1,2 @@
+# Article XVII, Section 1. Qualifications of officers.
+No person shall be elected or appointed to any office in this State unless he possess the qualifications of an elector: Provided, The provisions of this Section shall not apply to the offices of State Librarian and Departmental Clerks, to either of which offices any woman, a resident of the State two years, who has attained the age of twenty-one years, shall be eligible.

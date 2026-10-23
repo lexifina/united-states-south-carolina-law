@@ -1,0 +1,2 @@
+# Article XVII, Section 13. Use of funds realized by Greenwood County from sale of electric properties and system.
+Funds realized by Greenwood County from the sale of its electric properties and system shall be held intact as an investment fund. Only investments in securities permitted by law may be made and then only by the governing body of the county. No portion of the principal amount of the fund shall be used for any other purpose. (1966 (54) 3299; 1967 (55) 97.)

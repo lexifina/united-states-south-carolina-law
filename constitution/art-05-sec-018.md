@@ -1,0 +1,2 @@
+# Article V, Section 18. Vacancies.
+All vacancies in the Supreme Court, Court of Appeals, or Circuit Court shall be filled by elections as prescribed in Sections 3, 8, and 13 of this article; provided, that if the unexpired term does not exceed one year such vacancy may be filled by the Governor. When a vacancy is filled by either appointment or election, the incumbent shall hold office only for the unexpired term of his predecessor. (1972 (57) 3176; 1973 (58) 161; 1985 Act No. 9.)

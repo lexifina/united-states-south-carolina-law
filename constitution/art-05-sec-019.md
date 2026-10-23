@@ -1,0 +1,2 @@
+# Article V, Section 19. Disqualification of Justices and judges; temporary appointments.
+The General Assembly shall specify the grounds for disqualification of Justices and judges to sit on certain cases. The General Assembly shall also provide for the temporary appointment of men learned in the law to sit as special Justices and judges when the necessity for such appointment shall arise. (1972 (57) 3176; 1973 (58) 161; 1985 Act No. 9.)

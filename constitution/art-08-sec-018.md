@@ -1,0 +1,2 @@
+# Article VIII, Section 18. Assignment and regulation of territories for electrical and gas utilities.
+Sections 15 and 16 of this article notwithstanding, the General Assembly shall provide by general law for the assignment and regulation of territories for electrical and gas utilities within consolidated political subdivisions, except within former municipal corporate limits as they existed on the date of consolidation whenever such municipality owns and operates its own electric or gas system. (1972 (57) 3184; 1973 (58) 67.)

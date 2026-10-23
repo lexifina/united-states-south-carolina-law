@@ -1,0 +1,3 @@
+# Article XV, Section 2. Trial of impeachments; judgment; proceedings no bar to criminal prosecution; impeachment of Governor.
+All impeachments shall be tried by the Senate, and when sitting for that purpose Senators shall be under oath or affirmation. No person shall be convicted except by a vote of two-thirds of all members elected. Judgment in such case shall be limited to removal from office. Impeachment proceedings, whether or not resulting in conviction, shall not be a bar to criminal prosecution and punishment according to law.
+When the Governor is impeached, the Chief Justice of the Supreme Court, or, if he be disqualified, the Senior Justice, shall preside, with a casting vote in all preliminary questions. (1970 (56) 2680; 1971 (57) 48.)

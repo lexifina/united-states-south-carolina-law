@@ -1,0 +1,2 @@
+# Article IV, Section 2. Qualifications of Governor.
+No person shall be eligible to the office of Governor who denies the existence of the Supreme Being; and who on the date of such election has not attained the age of thirty years; and who shall not have been a citizen of the United States and a citizen and resident of this State for five years next preceding the day of election. No person while Governor shall hold any office or other commission (except in the militia) under the authority of this State, or of any other power. (1972 (57) 3171; 1973 (58) 48.)

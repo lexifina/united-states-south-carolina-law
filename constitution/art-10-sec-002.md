@@ -1,0 +1,5 @@
+# Article X, Section 2. Defining classes of property and values for property tax purposes; transition to assessment ratios; continuance of existing statutes pertaining to assessment methods; changing assessment ratios.
+(a) The General Assembly may define the classes of property and values for property tax purposes of the classes of property set forth in Section 1 of this article and establish administrative procedures for property owners to qualify for a particular classification.
+(b) The General Assembly may provide for a gradual transition to any ratio as set out in Section 1 over a period not to exceed seven years.
+(c) Statutes pertaining to the methods of assessment of property for ad valorem taxation not in conflict with this article shall continue in force until changed by an act of the General Assembly.
+(d) The General Assembly may change the ratios as set forth in Section 1, but only with the approval of at least two-thirds of the membership of each house. (1976 (59) 2217; 1977 (60) 90.)

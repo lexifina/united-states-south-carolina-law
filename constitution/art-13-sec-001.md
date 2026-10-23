@@ -1,0 +1,2 @@
+# Article XIII, Section 1. Militia.
+The militia of this State shall consist of all able-bodied male citizens of the State between the ages of eighteen and forty-five years, except such persons as are now or may be exempted by the laws of the United States or this State, or who from religious scruples may be adverse to bearing arms, and shall be organized, officered, armed, equipped and disciplined as the General Assembly may by law direct.

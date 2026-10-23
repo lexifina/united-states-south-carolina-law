@@ -1,0 +1,2 @@
+# Article XVII, Section 8. Officers gambling and betting.
+It shall be unlawful for any person holding an office of honor, trust or profit to engage in gambling or betting on games of chance; and any such officer, upon conviction thereof, shall become thereby disqualified from the further exercise of the functions of his office, and the office of said person shall become vacant, as in the case of resignation or death.

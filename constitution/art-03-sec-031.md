@@ -1,0 +1,3 @@
+# Article III, Section 31. Public lands.
+Lands belonging to or under the control of the State shall never be donated, directly or indirectly, to private corporations or individuals, or to railroad companies. Nor shall such land be sold to corporations, or associations, for a less price than that for which it can be sold to individuals. This, however, shall not prevent the General Assembly from granting a right of way, not exceeding one hundred and fifty feet in width, as a mere easement to railroads across State land, nor to interfere with the discretion of the General Assembly in confirming the title to lands claimed to belong to the State, but used
+or possessed by other parties under an adverse claim.

@@ -1,0 +1,2 @@
+# Article III, Section 18. Formalities of act.
+No Bill or Joint Resolution shall have the force of law until it shall have been read three times and on three several days in each house, has had the Great Seal of the State affixed to it, and has been signed by the President of the Senate and the Speaker of the House of Representatives: Provided, That either branch of the General Assembly may provide by rule for a first and third reading of any Bill or Joint Resolution by its title only.

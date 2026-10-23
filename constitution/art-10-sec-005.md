@@ -1,0 +1,2 @@
+# Article X, Section 5. No tax without consent; taxes to be levied in pursuance of law.
+No tax, subsidy or charge shall be established, fixed, laid or levied, under any pretext whatsoever, without the consent of the people or their representatives lawfully assembled. Any tax which shall be levied shall distinctly state the public purpose to which the proceeds of the tax shall be applied. (1976 (59) 2217; 1977 (60) 90.)

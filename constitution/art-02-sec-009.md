@@ -1,0 +1,2 @@
+# Article II, Section 9. Appeal by person denied registration.
+Any person denied registration shall have the right to appeal to the court of common pleas, or any judge thereof, and thence to the Supreme Court, to determine his right to vote under the limitations imposed in or authorized by this article, and on such appeal the hearing shall be de novo, and the General Assembly shall provide for such appeal. (1970 (56) 2691; 1971 (57) 319.)

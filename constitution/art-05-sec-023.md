@@ -1,0 +1,2 @@
+# Article V, Section 23. Change of venue.
+It shall be the duty of the General Assembly to pass laws for the change of venue in all cases, civil and criminal, upon proper showing, supported by affidavit, that a fair and impartial trial cannot be had in the county where such action or prosecution was commenced. The State shall have the same right to move for a change of venue that a defendant has for such offenses as the General Assembly may prescribe. (1972 (57) 3176; 1973 (58) 161; 1985 Act No. 9.)

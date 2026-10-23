@@ -1,0 +1,2 @@
+# Article VIII, Section 17. Construction of Constitution and laws.
+The provisions of this Constitution and all laws concerning local government shall be liberally construed in their favor. Powers, duties, and responsibilities granted local government subdivisions by this Constitution and by law shall include those fairly implied and not prohibited by this Constitution. (1972 (57) 3184; 1973 (58) 67.)

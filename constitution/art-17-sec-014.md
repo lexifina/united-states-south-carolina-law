@@ -1,0 +1,2 @@
+# Article XVII, Section 14. Citizens deemed sui juris; restrictions as to sale of alcoholic beverages.
+Every citizen who is eighteen years of age or older, not laboring under disabilities prescribed in this Constitution or otherwise established by law, shall be deemed sui juris and endowed with full legal rights and responsibilities, provided, that the General Assembly may restrict the sale of alcoholic beverages to persons until age twenty-one. (1973 (58) 864; 1975 (59) 13.)

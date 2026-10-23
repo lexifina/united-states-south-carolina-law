@@ -1,0 +1,2 @@
+# Article II, Section 7. Disqualifications by reason of mental incompetence or conviction of crime.
+The General Assembly shall establish disqualifications for voting by reason of mental incompetence or conviction of serious crime, and may provide for the removal of such disqualifications. Persons who are confined in any penal institution under the judgment of a court shall not be entitled to vote. (1970 (56) 2691; 1971 (57) 319.)

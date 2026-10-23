@@ -1,0 +1,2 @@
+# Article XII, Section 1. Matters of public concern; General Assembly to provide appropriate agencies.
+The health, welfare, and safety of the lives and property of the people of this State and the conservation of its natural resources are matters of public concern. The General Assembly shall provide appropriate agencies to function in these areas of public concern and determine the activities, powers, and duties of such agencies. (1970 (56) 2683; 1971 (57) 46.)

@@ -1,0 +1,2 @@
+# Article V, Section 12. Jurisdiction in matters testamentary and of administration, minors and persons mentally incompetent.
+Jurisdiction in matters testamentary and of administration, in matters appertaining to minors and to persons mentally incompetent, shall be vested as the General Assembly may provide, consistent with the provisions of Section 1 of this article. (1972 (57) 3176; 1973 (58) 161; 1985 Act No. 9.)

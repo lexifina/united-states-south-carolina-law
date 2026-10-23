@@ -1,0 +1,2 @@
+# Article III, Section 14. Members in attendance protected.
+The members of both houses shall be protected in their persons and estates during their attendance on, going to and returning from the General Assembly, and ten days previous to the sitting and ten days after the adjournment thereof. But these privileges shall not protect any member who shall be charged with treason, felony or breach of the peace.

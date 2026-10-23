@@ -1,0 +1,2 @@
+# Article XVII, Section 9. Property of married women.
+The real and personal property of a woman held at the time of her marriage, or that which she may thereafter acquire, either by gift, grant, inheritance, devise or otherwise, shall be her separate property, and she shall have all the rights incident to the same to which an unmarried woman or a man is entitled. She shall have the power to contract and be contracted with in the same manner as if she were unmarried.

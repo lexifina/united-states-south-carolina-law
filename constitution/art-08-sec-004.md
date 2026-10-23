@@ -1,0 +1,2 @@
+# Article VIII, Section 4. Merger of counties.
+The General Assembly shall provide by law for the merger of adjoining counties. Such mergers shall be permitted by the General Assembly only upon the request of the governing bodies of the counties or upon petition by ten percent of the registered voters in each of the counties involved. No merger shall take place unless a majority of the electors voting on the question shall vote therefor in each of the counties. (1972 (57) 3184; 1973 (58) 67.)

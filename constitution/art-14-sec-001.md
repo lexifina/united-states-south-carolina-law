@@ -1,0 +1,2 @@
+# Article XIV, Section 1. Boundary rivers.
+The State shall have concurrent jurisdiction on all rivers bordering on this State, so far as such rivers shall form a common boundary to this and any other State bounded by the same; and they, together with all navigable waters within the limits of the State, shall be common highways and forever free, as well to the inhabitants of this State as to the citizens of the United States, without any tax or impost therefor, unless the same be expressly provided for by the General Assembly.

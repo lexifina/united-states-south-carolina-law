@@ -1,0 +1,2 @@
+# Article VI, Section 6. Commissions; Great Seal.
+The Governor shall commission all officers of the State. All commissions shall be issued in the name and by the authority of the State of South Carolina, sealed with the Great Seal, signed by the Governor, and countersigned by the Secretary of State. The seal of the State now in use shall be used by the Governor officially, and shall be called "The Great Seal of the State of South Carolina." (1972 (57) 3181; 1973 (58) 83.)

@@ -1,0 +1,2 @@
+# Article III, Section 24. Dual office holding.
+No person is eligible to a seat in the General Assembly while he holds any office or position of profit or trust under this State, the United States of America, or any of them, or under any other power, except officers in the militia, members of lawfully and regularly organized fire departments, constables, and notaries public. If any member accepts or exercises any of the disqualifying offices or positions he shall vacate his seat. (1989 Act No. 9.)

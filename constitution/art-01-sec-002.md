@@ -1,0 +1,2 @@
+# Article I, Section 2. Religious freedom; freedom of speech; right of assembly and petition.
+The General Assembly shall make no law respecting an establishment of religion or prohibiting the free exercise thereof, or abridging the freedom of speech or of the press; or the right of the people peaceably to assemble and to petition the government or any department thereof for a redress of grievances. (1970 (56) 2684; 1971 (57) 315.)

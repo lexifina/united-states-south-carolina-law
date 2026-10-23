@@ -1,0 +1,2 @@
+# Article IV, Section 5. Person having highest number of votes to be Governor; tie vote.
+In the general election for Governor, the person having the highest number of votes shall be Governor. In the event of a tie vote, as the first order of business after its organization, the General Assembly in joint session shall elect the Governor from the candidates having received the tie vote by the affirmative vote of a majority of the combined membership of both houses. (1972 (57) 3171; 1973 (58) 48.)

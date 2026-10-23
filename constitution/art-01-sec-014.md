@@ -1,0 +1,2 @@
+# Article I, Section 14. Trial by jury; witnesses; defense.
+The right of trial by jury shall be preserved inviolate. Any person charged with an offense shall enjoy the right to a speedy and public trial by an impartial jury; to be fully informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to be fully heard in his defense by himself or by his counsel or by both. (1970 (56) 2684; 1971 (57) 315.)

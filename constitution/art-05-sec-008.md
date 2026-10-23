@@ -1,0 +1,2 @@
+# Article V, Section 8. Election of members of Court of Appeals.
+The members of the Court of Appeals shall be elected by a joint public vote of the General Assembly for a term of six years and shall continue in office until their successors shall be elected and qualify. In any contested election, the vote of each member of the General Assembly present and voting shall be recorded. Provided, that for the first election of members of the Court of Appeals, the General Assembly shall by law provide for staggered terms. (1985 Act No. 9.)

@@ -1,0 +1,2 @@
+# Article I, Section 10. Searches and seizures; invasions of privacy.
+The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures and unreasonable invasions of privacy shall not be violated, and no warrants shall issue but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, the person or thing to be seized, and the information to be obtained. (1970 (56) 2684; 1971 (57) 315.)

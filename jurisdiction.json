@@ -1,0 +1,9 @@
+{
+  "path": "us-sc",
+  "code": "SC",
+  "name": "South Carolina",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-south-carolina-law",
+  "build": "first build: Constitution of the State of South Carolina and Code of Laws Title 16 (Crimes and Offenses), Title 33 chapters 1-20 (corporations) and Title 27 chapters 1-8 (property); one version each, oldest version available",
+  "register_date": "2026-10-30"
+}

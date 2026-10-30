@@ -1,0 +1,621 @@
+{
+ "country": "SC",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "S.C. Const.",
+   "title": "Constitution of the State of South Carolina (1895, as amended; unannotated)",
+   "url": "https://www.scstatehouse.gov/scconstitution/SCConstitution.pdf",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 228,
+     "source_url": "https://www.scstatehouse.gov/scconstitution/SCConstitution.pdf",
+     "sha256": "b444dc401ee5fef860890977c33a8b47a1b3d3562a1a47ce85f42292734ef328"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-01",
+   "short": "S.C. Code 16-1",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 1 Felonies and Misdemeanors; Accessories",
+   "url": "https://www.scstatehouse.gov/code/t16c001.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://www.scstatehouse.gov/code/t16c001.php",
+     "sha256": "c207dca2d715938268b532b9fd6a8619fb53b7f0e1fa06c62f1a9032117d9cc6"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-03",
+   "short": "S.C. Code 16-3",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 3 Offenses Against the Person ARTICLE 1 Homicide",
+   "url": "https://www.scstatehouse.gov/code/t16c003.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 156,
+     "source_url": "https://www.scstatehouse.gov/code/t16c003.php",
+     "sha256": "85737dcd541174f0c7a62ae57b4fec0bd21f3b07173a6ee97ff96568e46101af"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-05",
+   "short": "S.C. Code 16-5",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 5 Offenses Against Civil Rights",
+   "url": "https://www.scstatehouse.gov/code/t16c005.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://www.scstatehouse.gov/code/t16c005.php",
+     "sha256": "e09ee9ee20b740958c97d37e7edd274ada52c719c9a18255f8caac86edd10c9e"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-07",
+   "short": "S.C. Code 16-7",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 7 Offenses Against the Peace ARTICLE 1 Offenses During State of Emergency",
+   "url": "https://www.scstatehouse.gov/code/t16c007.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 11,
+     "source_url": "https://www.scstatehouse.gov/code/t16c007.php",
+     "sha256": "596d3fca4035a8ade35e707e57301edcfe8db9998313987f67b03fa586be223e"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-08",
+   "short": "S.C. Code 16-8",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 8 Offenses Promoting Civil Disorder ARTICLE 1 General Provisions Editor's Note 2007 Act No. 82,",
+   "url": "https://www.scstatehouse.gov/code/t16c008.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://www.scstatehouse.gov/code/t16c008.php",
+     "sha256": "3c899dfcac4576d8716aeb7d4a7c18f5c6464d8031528a33043af091e5a0fd78"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-09",
+   "short": "S.C. Code 16-9",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 9 Offenses Against Public Justice ARTICLE 1 Perjury",
+   "url": "https://www.scstatehouse.gov/code/t16c009.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 28,
+     "source_url": "https://www.scstatehouse.gov/code/t16c009.php",
+     "sha256": "3d89d508144af66da59ab1b1e27ac52d506c9c6519a9f9ca7d989f27a2b6de1d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-11",
+   "short": "S.C. Code 16-11",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 11 Offenses Against Property ARTICLE 1 General Provisions",
+   "url": "https://www.scstatehouse.gov/code/t16c011.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 83,
+     "source_url": "https://www.scstatehouse.gov/code/t16c011.php",
+     "sha256": "08bb357c12806b7a75df936ce40738f9f7c92204649e956f6c92e42e5045bfed"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-13",
+   "short": "S.C. Code 16-13",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 13 Forgery, Larceny, Embezzlement, False Pretenses and Cheats ARTICLE 1 Miscellaneous Offenses",
+   "url": "https://www.scstatehouse.gov/code/t16c013.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 68,
+     "source_url": "https://www.scstatehouse.gov/code/t16c013.php",
+     "sha256": "49fc5a4e43408cc0fe9f97ca8197a02f93a91e0149b927ed3714c9942849a199"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-14",
+   "short": "S.C. Code 16-14",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 14 Financial Transaction Card Crime Act",
+   "url": "https://www.scstatehouse.gov/code/t16c014.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 10,
+     "source_url": "https://www.scstatehouse.gov/code/t16c014.php",
+     "sha256": "288286ea2e8ca16a427fedef11479905ba7df28698dcbdcc015537888d1977ed"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-15",
+   "short": "S.C. Code 16-15",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 15 Offenses Against Morality and Decency ARTICLE 1 Miscellaneous Offenses",
+   "url": "https://www.scstatehouse.gov/code/t16c015.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 37,
+     "source_url": "https://www.scstatehouse.gov/code/t16c015.php",
+     "sha256": "9eb3d6164418d52e63fe16401e8522234f29c8ab88231d1f75f136fa3ff9c4b3"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-16",
+   "short": "S.C. Code 16-16",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 16 Computer Crime Act",
+   "url": "https://www.scstatehouse.gov/code/t16c016.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://www.scstatehouse.gov/code/t16c016.php",
+     "sha256": "f8c24e1dfc081de5846bbfdf4740e8d4177df23bd08af7f654a3d6c61ab9fdc4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-17",
+   "short": "S.C. Code 16-17",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 17 Offenses Against Public Policy ARTICLE 1 Barratry",
+   "url": "https://www.scstatehouse.gov/code/t16c017.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 59,
+     "source_url": "https://www.scstatehouse.gov/code/t16c017.php",
+     "sha256": "395f6caa82a31e2989f5c9cc9536b953ae1502798f1173f358c0de93156e1655"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-19",
+   "short": "S.C. Code 16-19",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 19 Gambling and Lotteries",
+   "url": "https://www.scstatehouse.gov/code/t16c019.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://www.scstatehouse.gov/code/t16c019.php",
+     "sha256": "0e9deef6259727b0fd761646f7d02ff808554751f5eb9827afc3dfa2450bd65c"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-21",
+   "short": "S.C. Code 16-21",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 21 Offenses Involving Motor Vehicle Titles",
+   "url": "https://www.scstatehouse.gov/code/t16c021.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://www.scstatehouse.gov/code/t16c021.php",
+     "sha256": "eb240cff63eb306064f195d247a0cd18c7279939a796b8892aba0c565894691e"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-23",
+   "short": "S.C. Code 16-23",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 23 Offenses Involving Weapons ARTICLE 1 Handguns",
+   "url": "https://www.scstatehouse.gov/code/t16c023.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 39,
+     "source_url": "https://www.scstatehouse.gov/code/t16c023.php",
+     "sha256": "e1d97cd939069ea83fc6b66c6577627acd312291b560e1f17ac7d26f24a335e5"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-25",
+   "short": "S.C. Code 16-25",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 25 Domestic Violence ARTICLE 1 General Provisions",
+   "url": "https://www.scstatehouse.gov/code/t16c025.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 28,
+     "source_url": "https://www.scstatehouse.gov/code/t16c025.php",
+     "sha256": "7d6c0c3d9a8a728c090bc975cc6026c2fcedd388043138b97297326ea86b6630"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-ch-27",
+   "short": "S.C. Code 16-27",
+   "title": "South Carolina Code of Laws Title 16 - CRIMES AND OFFENSES CHAPTER 27 Animal Fighting and Baiting Act",
+   "url": "https://www.scstatehouse.gov/code/t16c027.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 9,
+     "source_url": "https://www.scstatehouse.gov/code/t16c027.php",
+     "sha256": "030e95fe948161747c0c9d3e440e1d1d49d7727b832d50fd7c47bad3614f97f9"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-01",
+   "short": "S.C. Code 33-1",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 1 General Provisions ARTICLE 1 Short Title and Reservation of Power",
+   "url": "https://www.scstatehouse.gov/code/t33c001.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 17,
+     "source_url": "https://www.scstatehouse.gov/code/t33c001.php",
+     "sha256": "cab7ab3f101bbc960ceb1a3c5f045f91c8d9f635bfe03ff84b4636c9295f45ec"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-02",
+   "short": "S.C. Code 33-2",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 2 Incorporation",
+   "url": "https://www.scstatehouse.gov/code/t33c002.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 7,
+     "source_url": "https://www.scstatehouse.gov/code/t33c002.php",
+     "sha256": "5fad2ebe6791dd5536f1a5b32535859b33279db3890402cd4db22b38a51b9dc8"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-03",
+   "short": "S.C. Code 33-3",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 3 Purposes and Powers",
+   "url": "https://www.scstatehouse.gov/code/t33c003.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://www.scstatehouse.gov/code/t33c003.php",
+     "sha256": "e9f83d435e87b8bbda796f695f90a92bad148fe8b703dd72a51fc5b8707fd10b"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-04",
+   "short": "S.C. Code 33-4",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 4 Name",
+   "url": "https://www.scstatehouse.gov/code/t33c004.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://www.scstatehouse.gov/code/t33c004.php",
+     "sha256": "e273be958631331c5119d41ad0841105941ed9179413398fde0c3ea15b1753c6"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-05",
+   "short": "S.C. Code 33-5",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 5 Office and Agent",
+   "url": "https://www.scstatehouse.gov/code/t33c005.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://www.scstatehouse.gov/code/t33c005.php",
+     "sha256": "e23cd8b74fe2e5d7cc9f3891f6b638927391c53b9e5b0a447c3efbe42d457ad9"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-06",
+   "short": "S.C. Code 33-6",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 6 Shares and Distributions ARTICLE 1 Shares",
+   "url": "https://www.scstatehouse.gov/code/t33c006.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://www.scstatehouse.gov/code/t33c006.php",
+     "sha256": "d0817d7e230d765c606faebced087e7a05254d8f26d0aca37a7477b9cc8bc67c"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-07",
+   "short": "S.C. Code 33-7",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 7 Shareholders ARTICLE 1 Meetings",
+   "url": "https://www.scstatehouse.gov/code/t33c007.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 19,
+     "source_url": "https://www.scstatehouse.gov/code/t33c007.php",
+     "sha256": "99739781158870b5d117d0ea0a516ac196e7f7285fafe25d63cf82f8f6e17ecf"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-08",
+   "short": "S.C. Code 33-8",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 8 Directors and Officers ARTICLE 1 Board of Directors",
+   "url": "https://www.scstatehouse.gov/code/t33c008.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 35,
+     "source_url": "https://www.scstatehouse.gov/code/t33c008.php",
+     "sha256": "70ce261428e251b1b8691d51b22fefbc49a335d0ea800bebe0be5260b7db594e"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-09",
+   "short": "S.C. Code 33-9",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 9 Domestication of a Foreign Corporation",
+   "url": "https://www.scstatehouse.gov/code/t33c009.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://www.scstatehouse.gov/code/t33c009.php",
+     "sha256": "76aa55cb7e4617bff9ac5394f8fe0956b7d04c7d9a5dc983ca9b977cfcf06a56"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-10",
+   "short": "S.C. Code 33-10",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 10 Amendment of Articles of Incorporation and Bylaws ARTICLE 1 Amendment of Articles of Incorporation",
+   "url": "https://www.scstatehouse.gov/code/t33c010.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 13,
+     "source_url": "https://www.scstatehouse.gov/code/t33c010.php",
+     "sha256": "6e9ffd221ef89b117c21edfe2802672ffe94203b08d50bb2d7914fa67c9b3ec7"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-11",
+   "short": "S.C. Code 33-11",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 11 Merger and Share Exchange",
+   "url": "https://www.scstatehouse.gov/code/t33c011.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://www.scstatehouse.gov/code/t33c011.php",
+     "sha256": "3324668075fc341f64763ab13ca6dc480959ecd47293f1d5cc238b501254f2b6"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-12",
+   "short": "S.C. Code 33-12",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 12 Sale of Assets",
+   "url": "https://www.scstatehouse.gov/code/t33c012.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://www.scstatehouse.gov/code/t33c012.php",
+     "sha256": "4ec2f5a58ddc4a6088b2bae577877d954ffa30640d1247be22cf60bfb22aa70f"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-13",
+   "short": "S.C. Code 33-13",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 13 Dissenters' Rights ARTICLE 1 Right to Dissent and Obtain Payment for Shares",
+   "url": "https://www.scstatehouse.gov/code/t33c013.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://www.scstatehouse.gov/code/t33c013.php",
+     "sha256": "a5d21a593b9102abf965482d158e1c6ada9fbd8e1608f86ea187a9511c245cc8"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-14",
+   "short": "S.C. Code 33-14",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 14 Dissolution ARTICLE 1 Voluntary Dissolution",
+   "url": "https://www.scstatehouse.gov/code/t33c014.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 17,
+     "source_url": "https://www.scstatehouse.gov/code/t33c014.php",
+     "sha256": "3885ca189834999d3c7862b83b46a48aab75aab3557a4b950320ecf4141790b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-15",
+   "short": "S.C. Code 33-15",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 15 Foreign Corporations ARTICLE 1 Certificate of Authority",
+   "url": "https://www.scstatehouse.gov/code/t33c015.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://www.scstatehouse.gov/code/t33c015.php",
+     "sha256": "baca00f4b23480dab8dc3f9d558e7386e72b007b243b1e56f90d8dcd0f38e1b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-16",
+   "short": "S.C. Code 33-16",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 16 Records and Reports ARTICLE 1 Records",
+   "url": "https://www.scstatehouse.gov/code/t33c016.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 7,
+     "source_url": "https://www.scstatehouse.gov/code/t33c016.php",
+     "sha256": "674baead1a664baa968db7dcb34b689bda47fa87b7500cdd2ea9a562fdc90428"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-18",
+   "short": "S.C. Code 33-18",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 18 Statutory Close Corporation Supplement ARTICLE 1 Creation",
+   "url": "https://www.scstatehouse.gov/code/t33c018.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 26,
+     "source_url": "https://www.scstatehouse.gov/code/t33c018.php",
+     "sha256": "055ff40d512f19b602e50c6129f0bd8f8d909e17348bb5fcf7439ccf14cb3ff8"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-19",
+   "short": "S.C. Code 33-19",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 19 Professional Corporation Supplement ARTICLE 1 General Provisions",
+   "url": "https://www.scstatehouse.gov/code/t33c019.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 35,
+     "source_url": "https://www.scstatehouse.gov/code/t33c019.php",
+     "sha256": "e3b5eea99ac8c002f79ef1f34ca9138afc81db61f6721d380dec9db09fa53bcd"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-ch-20",
+   "short": "S.C. Code 33-20",
+   "title": "South Carolina Code of Laws Title 33 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS CHAPTER 20 Transition Provisions",
+   "url": "https://www.scstatehouse.gov/code/t33c020.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://www.scstatehouse.gov/code/t33c020.php",
+     "sha256": "924176a8d2939a68b1c0419665a4e7b1554de0557a007ff1908502283bd7294a"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-01",
+   "short": "S.C. Code 27-1",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 1 General Provisions",
+   "url": "https://www.scstatehouse.gov/code/t27c001.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://www.scstatehouse.gov/code/t27c001.php",
+     "sha256": "6ed13a3554ca6cfc949238f73875e9819e0d769fed7574890f86e62822a96d0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-02",
+   "short": "S.C. Code 27-2",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 2 Coordinate System for Defining Location of Points Within State",
+   "url": "https://www.scstatehouse.gov/code/t27c002.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 9,
+     "source_url": "https://www.scstatehouse.gov/code/t27c002.php",
+     "sha256": "d83abc1dd9d70794c5d22ca9938559565d7bf8056fcf7bc58d35479269c96b05"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-03",
+   "short": "S.C. Code 27-3",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 3 Limitation on Liability of Landowners",
+   "url": "https://www.scstatehouse.gov/code/t27c003.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 7,
+     "source_url": "https://www.scstatehouse.gov/code/t27c003.php",
+     "sha256": "84ed7173d0e06851845681458ad9b8fd7014256e7bcdb268bb5ec62689d64a54"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-05",
+   "short": "S.C. Code 27-5",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 5 Estates and Construction of Documents Creating Estates",
+   "url": "https://www.scstatehouse.gov/code/t27c005.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://www.scstatehouse.gov/code/t27c005.php",
+     "sha256": "6c7a45d3838d11d2573dd04e54440642627666f4ca8a6eb4ba821a60b76f1b8f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-06",
+   "short": "S.C. Code 27-6",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 6 Uniform Statutory Rule Against Perpetuities",
+   "url": "https://www.scstatehouse.gov/code/t27c006.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://www.scstatehouse.gov/code/t27c006.php",
+     "sha256": "79f0a5f380a8fcfa20ba4f79eada64a10f121dfa4b52de2a741694e2e9420df6"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-07",
+   "short": "S.C. Code 27-7",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 7 Form and Execution of Conveyances",
+   "url": "https://www.scstatehouse.gov/code/t27c007.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://www.scstatehouse.gov/code/t27c007.php",
+     "sha256": "be57ab9596c872b60dec9e3ce2b5af9254ed82c8f47cb795f40559ad98b27243"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-ch-08",
+   "short": "S.C. Code 27-8",
+   "title": "South Carolina Code of Laws Title 27 - PROPERTY AND CONVEYANCES CHAPTER 8 Conservation Easement Act",
+   "url": "https://www.scstatehouse.gov/code/t27c008.php",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 13,
+     "source_url": "https://www.scstatehouse.gov/code/t27c008.php",
+     "sha256": "27e4a0d7401ac98822c1ab140bd3bbfde73d9a4b0be863bc46ee83b3d0d92586"
+    }
+   ]
+  }
+ ]
+}

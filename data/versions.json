@@ -18256,6 +18256,1462 @@
      "sha256": "5fc4d11284f73be2f4e336b0563c142560db169b062ae100c9e5ed6ad64daeab"
     }
    ]
+  },
+  {
+   "slug": "regulation-ch-001",
+   "short": "S.C. Regs. ch. 1",
+   "title": "South Carolina Code of Regulations Chapter 1: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%201.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%201.pdf",
+     "sha256": "e273633140b640a0ded0fd6baa84aa073a9990841b93364857561cae19285209"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-003",
+   "short": "S.C. Regs. ch. 3",
+   "title": "South Carolina Code of Regulations Chapter 3: Department of Commerce—Aeronautics Division",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%203.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%203.pdf",
+     "sha256": "bbb828a8a5b7eb371a199addb2a073729a410bc0082cbe994bebf043d1e79ce3"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-005",
+   "short": "S.C. Regs. ch. 5",
+   "title": "South Carolina Code of Regulations Chapter 5: Department of Agriculture",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%205.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%205.pdf",
+     "sha256": "1e114b7549affc68408c4262348e39be375ad97948790c8898f930256afcd196"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-007",
+   "short": "S.C. Regs. ch. 7",
+   "title": "South Carolina Code of Regulations Chapter 7: Alcoholic Beverages, Beer and Wine",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%207.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%207.pdf",
+     "sha256": "480d981f9d2536eb1068fb2dab428d78ef32291c7188bb3394da1c4a61594c93"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-008",
+   "short": "S.C. Regs. ch. 8",
+   "title": "South Carolina Code of Regulations Chapter 8: Building Codes Council",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%208.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%208.pdf",
+     "sha256": "31f1da56b78cf154105b44adc3c4c5994ad5ecbdf8a649e52ba5ce636caa461c"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-009",
+   "short": "S.C. Regs. ch. 9",
+   "title": "South Carolina Code of Regulations Chapter 9: Institute of Archeology and Anthropology",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%209.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%209.pdf",
+     "sha256": "a8c6db721be27d2ca06bb72cc10c20c3e03784270a1b739c8f87f42c5d5a44a2"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-010",
+   "short": "S.C. Regs. ch. 10",
+   "title": "South Carolina Code of Regulations Chapter 10: Department of Labor, Licensing and Regulation",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2010.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2010.pdf",
+     "sha256": "d986cc5d0700a91a6bafca2004de42903781dc17446eb8d107b0ba64b4b09b33"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-011",
+   "short": "S.C. Regs. ch. 11",
+   "title": "South Carolina Code of Regulations Chapter 11: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2011.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2011.pdf",
+     "sha256": "973e5ca877d20c7ba248b84e5b628b532915ea5659dc7f90441a8a1fb2f9bcbd"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-012",
+   "short": "S.C. Regs. ch. 12",
+   "title": "South Carolina Code of Regulations Chapter 12: South Carolina Department of Archives and History",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2012.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2012.pdf",
+     "sha256": "0e14ac4a64055f023208937d20401d0fb4b9fd477e763c61670254dad47bc384"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-013",
+   "short": "S.C. Regs. ch. 13",
+   "title": "South Carolina Code of Regulations Chapter 13: Attorney General",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2013.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2013.pdf",
+     "sha256": "51eca4b5e4256c39df98c66576015d801e43cb25d96d53acbd644aab0c00f542"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-014",
+   "short": "S.C. Regs. ch. 14",
+   "title": "South Carolina Code of Regulations Chapter 14: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2014.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2014.pdf",
+     "sha256": "411baf2a65316912088ba05987a3a1c9e36861660a7ffbe7bd9e4a8d03088e15"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-015",
+   "short": "S.C. Regs. ch. 15",
+   "title": "South Carolina Code of Regulations Chapter 15: State Board of Financial Institutions",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2015.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2015.pdf",
+     "sha256": "613fddbfa780831e96081728604267fd30b410ee4b3d503917a406655177f289"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-016",
+   "short": "S.C. Regs. ch. 16",
+   "title": "South Carolina Code of Regulations Chapter 16: South Carolina Conservation Bank",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2016.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2016.pdf",
+     "sha256": "7c0ba6b55e7f6845b8be16db53e37a0c9f27db5d0c83a028023a70927c30d889"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-017",
+   "short": "S.C. Regs. ch. 17",
+   "title": "South Carolina Code of Regulations Chapter 17: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2017.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2017.pdf",
+     "sha256": "7a954b9411a7c44328e4da0181dac81732f6a046686b61bd83653f6d980c1f45"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-018",
+   "short": "S.C. Regs. ch. 18",
+   "title": "South Carolina Code of Regulations Chapter 18: South Carolina Commission for the Blind",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2018.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2018.pdf",
+     "sha256": "e9f28a6dc143c08e31549069cf7acef17f99ce0075ef9e58ac0bc23fbc653033"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-019",
+   "short": "S.C. Regs. ch. 19",
+   "title": "South Carolina Code of Regulations Chapter 19: State Budget and Control Board",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2019.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2019.pdf",
+     "sha256": "6b45bef6cf1271d4f6f1517fd46fc5c1b2bc31eacbeec19d0e87e06a0312579a"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-020",
+   "short": "S.C. Regs. ch. 20",
+   "title": "South Carolina Code of Regulations Chapter 20: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2020.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2020.pdf",
+     "sha256": "533c2a211073b216f2b9f7d8872c192dbdd586b606dd9e66bc8fbbc15b921599"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-021",
+   "short": "S.C. Regs. ch. 21",
+   "title": "South Carolina Code of Regulations Chapter 21: South Carolina Perpetual Care Cemetery Board",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2021.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2021.pdf",
+     "sha256": "0927bce033d113a8d6059895f1a602bc7bc44ef24efaa58e00ee81fe2f24167b"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-022",
+   "short": "S.C. Regs. ch. 22",
+   "title": "South Carolina Code of Regulations Chapter 22: Coastal Carolina University",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2022.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2022.pdf",
+     "sha256": "63698b9b46c9c2c3b8516b1cf1d78a3870c870ff8ce5ccdcc89950d9958abebb"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-023",
+   "short": "S.C. Regs. ch. 23",
+   "title": "South Carolina Code of Regulations Chapter 23: The College of Charleston",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2023.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2023.pdf",
+     "sha256": "76bf3cefb5065170336123efdae14e08c7896a133686003b53e596a81e7d4b76"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-024",
+   "short": "S.C. Regs. ch. 24",
+   "title": "South Carolina Code of Regulations Chapter 24: Office of the Governor—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2024.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2024.pdf",
+     "sha256": "cb53b9fcbae2cdab51dd87d7320af1ae9de7b16c537f048490137925aae0f9e0"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-025",
+   "short": "S.C. Regs. ch. 25",
+   "title": "South Carolina Code of Regulations Chapter 25: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2025.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2025.pdf",
+     "sha256": "2b7d4ae09cb5a26f81da5e05946baf83dc56f6f978537e79363a611e4e24395d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-026",
+   "short": "S.C. Regs. ch. 26",
+   "title": "South Carolina Code of Regulations Chapter 26: The Citadel",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2026.pdf",
+     "sha256": "b51db5f81c946a68be26f3f19839960fc9b44885179d8d55632f652742437c88"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-027",
+   "short": "S.C. Regs. ch. 27",
+   "title": "South Carolina Code of Regulations Chapter 27: Clemson University",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2027.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2027.pdf",
+     "sha256": "a5d3ac2027fef95824275ce29a9416500c8906c51c638877dbbe3e098aed0198"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-028",
+   "short": "S.C. Regs. ch. 28",
+   "title": "South Carolina Code of Regulations Chapter 28: Department of Consumer Affairs",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2028.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2028.pdf",
+     "sha256": "8079decba989c2aa55b829378efda4760275b58aeaeb20c04d8ced0d8ad61e98"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-029",
+   "short": "S.C. Regs. ch. 29",
+   "title": "South Carolina Code of Regulations Chapter 29: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2029.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2029.pdf",
+     "sha256": "31366bb08dc0895d00d7bc5a1ef2f5907f058fe6dba19669ee64d9760f1dc988"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-031",
+   "short": "S.C. Regs. ch. 31",
+   "title": "South Carolina Code of Regulations Chapter 31: Office of the Governor—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2031.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2031.pdf",
+     "sha256": "01d64a3a414d48f4cc6ea75fcf4f81524bb9d0845a0d48c618ef7d7dbcef355d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-033",
+   "short": "S.C. Regs. ch. 33",
+   "title": "South Carolina Code of Regulations Chapter 33: Department of Corrections",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2033.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2033.pdf",
+     "sha256": "4f6df616f0c681aa2421dcce9f548a83bdcd81d0d14c8444192f4eb928452689"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-035",
+   "short": "S.C. Regs. ch. 35",
+   "title": "South Carolina Code of Regulations Chapter 35: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2035.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2035.pdf",
+     "sha256": "163978893d375e71608509c6fcef6d6f963b3a8fe98ebebeca5a4b65010ff077"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-036",
+   "short": "S.C. Regs. ch. 36",
+   "title": "South Carolina Code of Regulations Chapter 36: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2036.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2036.pdf",
+     "sha256": "8a3ae63c741187e4376e6699671833569edcb3ddf6794b87cd978ee0dadcab8b"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-037",
+   "short": "S.C. Regs. ch. 37",
+   "title": "South Carolina Code of Regulations Chapter 37: South Carolina Criminal Justice Academy",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2037.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2037.pdf",
+     "sha256": "8ab80db8cf9075a6b85d13daebb935b8607fdd41fd9b5b0ec8603fb92545107e"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-038",
+   "short": "S.C. Regs. ch. 38",
+   "title": "South Carolina Code of Regulations Chapter 38: Department of Public Safety",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2038.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2038.pdf",
+     "sha256": "a5f3ba04378799226838c1c2cfbec9de76f10b3506a1ccaa558ddad16be7b6f2"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-039",
+   "short": "S.C. Regs. ch. 39",
+   "title": "South Carolina Code of Regulations Chapter 39: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2039.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2039.pdf",
+     "sha256": "7fd7097af413793bf3df15c2fe7e7b45f8b9bff81f845d607789860bb6aa5057"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-040",
+   "short": "S.C. Regs. ch. 40",
+   "title": "South Carolina Code of Regulations Chapter 40: Department of Labor, Licensing and",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2040.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2040.pdf",
+     "sha256": "6075b6b808b38fc02bca49d54689abeaadd6525b546737be8082a8922e4fda12"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-041",
+   "short": "S.C. Regs. ch. 41",
+   "title": "South Carolina Code of Regulations Chapter 41: South Carolina Board of Genetic Counselors",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2041.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2041.pdf",
+     "sha256": "4545a8642fed16333c12c67f27bcc2ed8894f012fde2b9c65ca323df06dc624a"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-042",
+   "short": "S.C. Regs. ch. 42",
+   "title": "South Carolina Code of Regulations Chapter 42: State Education Assistance Authority",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2042.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2042.pdf",
+     "sha256": "421a3382d746128037a1c7f31bfcfac07fefc4d7257d49606e95a0065f919ec5"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-043",
+   "short": "S.C. Regs. ch. 43",
+   "title": "South Carolina Code of Regulations Chapter 43: State Board of Education",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2043.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2043.pdf",
+     "sha256": "a6b10efbae9783829f16375fdfabcc149071bb0021f244f537a87f41243dddcc"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-044",
+   "short": "S.C. Regs. ch. 44",
+   "title": "South Carolina Code of Regulations Chapter 44: South Carolina Lottery Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2044.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2044.pdf",
+     "sha256": "eed3b4bfded77671a6d6411a499938c989bb5b23255847a543dca2071cd449e6"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-045",
+   "short": "S.C. Regs. ch. 45",
+   "title": "South Carolina Code of Regulations Chapter 45: State Election Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2045.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2045.pdf",
+     "sha256": "76956b1eb70c7a72183bc976ae97cef293a74de9f564e0c7bc35236228fdd7ab"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-047",
+   "short": "S.C. Regs. ch. 47",
+   "title": "South Carolina Code of Regulations Chapter 47: Department of Employment and Workforce",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2047.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2047.pdf",
+     "sha256": "997a936b1bc40710e0eb60d4822f9892623c2bb22fa6b74eb9316d20d9366e55"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-049",
+   "short": "S.C. Regs. ch. 49",
+   "title": "South Carolina Code of Regulations Chapter 49: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2049.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2049.pdf",
+     "sha256": "4cc162975f68ea8bd295cb918a3e7533eda9ec999d846eef6305c8b2cc916086"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-050",
+   "short": "S.C. Regs. ch. 50",
+   "title": "South Carolina Code of Regulations Chapter 50: South Carolina State Board of Examiners for",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2050.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2050.pdf",
+     "sha256": "71ab1d51211dd380f80786340a10a24b5970f620e2d2105b50a52b641d9aae75"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-051",
+   "short": "S.C. Regs. ch. 51",
+   "title": "South Carolina Code of Regulations Chapter 51: South Carolina Environmental Certification Board",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2051.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2051.pdf",
+     "sha256": "b120bd08f9b1fed05156ab07cc22d8036fd367cdd48c596c5e88714b5afbbaca"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-052",
+   "short": "S.C. Regs. ch. 52",
+   "title": "South Carolina Code of Regulations Chapter 52: State Ethics Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2052.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2052.pdf",
+     "sha256": "5a9cd273efe6b4aff122176ea932004749f72433bf4b19931263b8f3f243ccc4"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-053",
+   "short": "S.C. Regs. ch. 53",
+   "title": "South Carolina Code of Regulations Chapter 53: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2053.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2053.pdf",
+     "sha256": "5071a710820aaf617b58306a064b5a196ce1e6512503971e83f229a3376d8cb5"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-055",
+   "short": "S.C. Regs. ch. 55",
+   "title": "South Carolina Code of Regulations Chapter 55: South Carolina Forestry Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2055.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2055.pdf",
+     "sha256": "0898a3fb31548dbb601532d8d99cb5093dbdfb76f2e1cba58071e5c071dca41b"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-057",
+   "short": "S.C. Regs. ch. 57",
+   "title": "South Carolina Code of Regulations Chapter 57: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2057.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2057.pdf",
+     "sha256": "31a95f67fb6f598554042f6f4b9f881ed4662de814f8b06fac6a17c09fa69fce"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-058",
+   "short": "S.C. Regs. ch. 58",
+   "title": "South Carolina Code of Regulations Chapter 58: Office of the Governor",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2058.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2058.pdf",
+     "sha256": "cca516b5cc6502744b26162197b35d28d5ddf146196900d923150fc57f8cd918"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-060",
+   "short": "S.C. Regs. ch. 60",
+   "title": "South Carolina Code of Regulations Chapter 60: Department of Public Health",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2060.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2060.pdf",
+     "sha256": "77f1323442ce2ac495dc04ab376eb54b1a03cce3f486670e0a209ffc69b0a266"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-062",
+   "short": "S.C. Regs. ch. 62",
+   "title": "South Carolina Code of Regulations Chapter 62: State Commission on Higher Education",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2062.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2062.pdf",
+     "sha256": "504d09c151b686114756a048a2fbeb0aaa1dea7f074edd07d1c97c08a7321bb7"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-063",
+   "short": "S.C. Regs. ch. 63",
+   "title": "South Carolina Code of Regulations Chapter 63: Department of Transportation",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2063.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2063.pdf",
+     "sha256": "d4f6f87b93b0ddf7ab30b64385f3401e1b4d2908b817d2ea9e5344f4e397d612"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-064",
+   "short": "S.C. Regs. ch. 64",
+   "title": "South Carolina Code of Regulations Chapter 64: South Carolina State Housing Finance",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2064.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2064.pdf",
+     "sha256": "e01be6fb34efed95c320f50a073ebc17e934d668bab2e24f203a0d6c8e9d516b"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-065",
+   "short": "S.C. Regs. ch. 65",
+   "title": "South Carolina Code of Regulations Chapter 65: South Carolina Human Affairs Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2065.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2065.pdf",
+     "sha256": "e10745d6ba14aea0db58aca3f1263e0f1a47ee71798d5a7804f02e8c44fd2b16"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-067",
+   "short": "S.C. Regs. ch. 67",
+   "title": "South Carolina Code of Regulations Chapter 67: South Carolina Workers’ Compensation Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2067.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2067.pdf",
+     "sha256": "44501c2aec7b770764e650ddf54b7467bd21f856a7958f1fb9137c9fac5f5178"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-068",
+   "short": "S.C. Regs. ch. 68",
+   "title": "South Carolina Code of Regulations Chapter 68: South Carolina Jobs—Economic",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2068.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2068.pdf",
+     "sha256": "1e81ba1470f8c23bd80f956ffc45234503d033a6d2509b410bbac8a90249daa7"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-071",
+   "short": "S.C. Regs. ch. 71",
+   "title": "South Carolina Code of Regulations Chapter 71: Department of Labor, Licensing and",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2071.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2071.pdf",
+     "sha256": "0588010434f5e08644520984a8eccb6ca60c1c38cf399e0cddd0fe657892ce8d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-072",
+   "short": "S.C. Regs. ch. 72",
+   "title": "South Carolina Code of Regulations Chapter 72: Department of Environmental Services—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2072.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2072.pdf",
+     "sha256": "b96dcd6382b89f2c5868c9d7d34d74dd4b250e7b8d3cc21bfaff3e34753d5447"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-073",
+   "short": "S.C. Regs. ch. 73",
+   "title": "South Carolina Code of Regulations Chapter 73: South Carolina Law Enforcement Division",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2073.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2073.pdf",
+     "sha256": "38e698b50bd9cdac509f6530615b38873411fca48dcdb1c7601aedb3595fe246"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-075",
+   "short": "S.C. Regs. ch. 75",
+   "title": "South Carolina Code of Regulations Chapter 75: South Carolina State Library",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2075.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2075.pdf",
+     "sha256": "de8153112a796fe7c3665afdcef9105f78f51820cc88eeca64241ff790f7aa14"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-076",
+   "short": "S.C. Regs. ch. 76",
+   "title": "South Carolina Code of Regulations Chapter 76: Board of Landscape Architectural Examiners",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2076.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2076.pdf",
+     "sha256": "9ad0743cc5aa76d41083623b4ee258acfb86cdae2559bf6d79e11bca0f0c30b0"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-077",
+   "short": "S.C. Regs. ch. 77",
+   "title": "South Carolina Code of Regulations Chapter 77: Massage Therapy Board",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2077.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2077.pdf",
+     "sha256": "0cc864697ef222802820116bb9e423d41fc5981abfdcde5d5259ebfecac1c9a8"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-080",
+   "short": "S.C. Regs. ch. 80",
+   "title": "South Carolina Code of Regulations Chapter 80: The South Carolina Maritime Security",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2080.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2080.pdf",
+     "sha256": "0b067486edf7fd50fd01feab2a234147a6028153c843fb9b9d30b9078ebf441b"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-081",
+   "short": "S.C. Regs. ch. 81",
+   "title": "South Carolina Code of Regulations Chapter 81: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2081.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2081.pdf",
+     "sha256": "98c67c83d0384fdfa0282ca4420589fe6dc9e0b17565666000939a3cade69b41"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-083",
+   "short": "S.C. Regs. ch. 83",
+   "title": "South Carolina Code of Regulations Chapter 83: The Medical University of South Carolina",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2083.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2083.pdf",
+     "sha256": "82eab2cf164fb099ff6ba9d5dea18a9e792f4fab1e166ee52d685988c966a11f"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-087",
+   "short": "S.C. Regs. ch. 87",
+   "title": "South Carolina Code of Regulations Chapter 87: Department of Mental Health",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2087.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2087.pdf",
+     "sha256": "592c7156fccb7eca6cf48db40a1ab285d81e125624acbc9c655f92d2dd90614f"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-088",
+   "short": "S.C. Regs. ch. 88",
+   "title": "South Carolina Code of Regulations Chapter 88: Department of Disabilities and Special Needs",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2088.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2088.pdf",
+     "sha256": "4a07a073c015c6796e4a47947394b6a681a51dbbb760d8fa35e067df0875a983"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-089",
+   "short": "S.C. Regs. ch. 89",
+   "title": "South Carolina Code of Regulations Chapter 89: Office of the Governor—Mining",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2089.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2089.pdf",
+     "sha256": "11310cc2767364d7544d4630e30e76b1088271f53e95c1161dc739f49cf79b2e"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-090",
+   "short": "S.C. Regs. ch. 90",
+   "title": "South Carolina Code of Regulations Chapter 90: Department of Motor Vehicles",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2090.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2090.pdf",
+     "sha256": "313b1b8a001b6dcaf27ef41b2b6c10317ab49c9653ec45b21b173187a60447d3"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-091",
+   "short": "S.C. Regs. ch. 91",
+   "title": "South Carolina Code of Regulations Chapter 91: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2091.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2091.pdf",
+     "sha256": "ab8954f1496844d749fc45fbc47c6ebfb26cba0d2ef463f640eb203525791c23"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-093",
+   "short": "S.C. Regs. ch. 93",
+   "title": "South Carolina Code of Regulations Chapter 93: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2093.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2093.pdf",
+     "sha256": "99e11c24572253d7c43501f4b39f31eee4f1e7637812ab2edc1b1a27c8d5d55d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-094",
+   "short": "S.C. Regs. ch. 94",
+   "title": "South Carolina Code of Regulations Chapter 94: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2094.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2094.pdf",
+     "sha256": "2f77b4f4e1b2f48c71cf3e5ad824ebe3d4d6c447b2f97643d442aecbffd5eb45"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-095",
+   "short": "S.C. Regs. ch. 95",
+   "title": "South Carolina Code of Regulations Chapter 95: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2095.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2095.pdf",
+     "sha256": "9bfded28739c8d23c2c911b7522db6275a79ad9be82f5769d0f8ee81250ec324"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-096",
+   "short": "S.C. Regs. ch. 96",
+   "title": "South Carolina Code of Regulations Chapter 96: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2096.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2096.pdf",
+     "sha256": "4e74e272fbfe32acb2267ebdc142d7b265e6e47081f7891801f1e203308a24db"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-099",
+   "short": "S.C. Regs. ch. 99",
+   "title": "South Carolina Code of Regulations Chapter 99: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%2099.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%2099.pdf",
+     "sha256": "014ce09f63314434369eec63240d169fe83cf0117a7ac6659b223575c6cbe0ed"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-100",
+   "short": "S.C. Regs. ch. 100",
+   "title": "South Carolina Code of Regulations Chapter 100: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20100.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20100.pdf",
+     "sha256": "9ef8ab93cb3bba77fcf9ff29cd0f5a704749a647d1f851b9bd946450bf5300e7"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-101",
+   "short": "S.C. Regs. ch. 101",
+   "title": "South Carolina Code of Regulations Chapter 101: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20101.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20101.pdf",
+     "sha256": "334b7c8a580dafdabeccb5d5a01bc38ac5c90d4beb784cccc638ac0da33345a1"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-102",
+   "short": "S.C. Regs. ch. 102",
+   "title": "South Carolina Code of Regulations Chapter 102: Attorney General—Division of Public Charities",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20102.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20102.pdf",
+     "sha256": "ce2b6f490db3bfca997aa93f1c56f496962e9544efcbdc7aff0dbd2d4669336d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-103",
+   "short": "S.C. Regs. ch. 103",
+   "title": "South Carolina Code of Regulations Chapter 103: Public Service Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20103.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20103.pdf",
+     "sha256": "38597e2c0283dacdf8964ce0f6c9816b16020e86319fea522405aad1b314e6c2"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-104",
+   "short": "S.C. Regs. ch. 104",
+   "title": "South Carolina Code of Regulations Chapter 104: South Carolina State Ports Authority",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20104.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20104.pdf",
+     "sha256": "9031ca5064e24a57ddb5e4d38bccb82218db5db9e1c1de8b1575d62d507dd6cc"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-105",
+   "short": "S.C. Regs. ch. 105",
+   "title": "South Carolina Code of Regulations Chapter 105: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20105.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20105.pdf",
+     "sha256": "3dc0d8c9dd784d2a5425d553fffb290c056a09cb91122aa6dd710f1edda589de"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-106",
+   "short": "S.C. Regs. ch. 106",
+   "title": "South Carolina Code of Regulations Chapter 106: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20106.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20106.pdf",
+     "sha256": "b42b40fd624ebd88aa00a5080559edb424b8eb3d0f6aa4d2a7c1ad774eb97c16"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-108",
+   "short": "S.C. Regs. ch. 108",
+   "title": "South Carolina Code of Regulations Chapter 108: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20108.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20108.pdf",
+     "sha256": "180028e554ca1f6585c0314d7e7cc178fc08923b07d895f2a19e0369d9ebcd7e"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-110",
+   "short": "S.C. Regs. ch. 110",
+   "title": "South Carolina Code of Regulations Chapter 110: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20110.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20110.pdf",
+     "sha256": "10337814d40668bf703d9777ebb2b203cd3975633819fae137062b15e67eca92"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-111",
+   "short": "S.C. Regs. ch. 111",
+   "title": "South Carolina Code of Regulations Chapter 111: Office of Regulatory Staff",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20111.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20111.pdf",
+     "sha256": "83757db9041b41c23a149e3dcaa17b3744ba0804435f07a2867b054f1caf6116"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-112",
+   "short": "S.C. Regs. ch. 112",
+   "title": "South Carolina Code of Regulations Chapter 112: State Reorganization Commission",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20112.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20112.pdf",
+     "sha256": "0a86251ae8db616e4c1f8bf71cd1f17e967e8ea9f3ba6d8244b2afe42b9e518d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-113",
+   "short": "S.C. Regs. ch. 113",
+   "title": "South Carolina Code of Regulations Chapter 113: Secretary of State",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20113.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20113.pdf",
+     "sha256": "45f709a4dfa0120f7469ae9d1abb081ee279152c169aba3667507458ac9fdd5f"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-114",
+   "short": "S.C. Regs. ch. 114",
+   "title": "South Carolina Code of Regulations Chapter 114: Department of Social Services",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf",
+     "sha256": "6edbe62d0812ee67b9a1e1a362333d76c142e46a3128cbd21acef9987825a2c0"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-115",
+   "short": "S.C. Regs. ch. 115",
+   "title": "South Carolina Code of Regulations Chapter 115: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20115.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20115.pdf",
+     "sha256": "b33363eb919b4e6373919fed0a1e6359540289855daeaeccd824402f03da2dc6"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-117",
+   "short": "S.C. Regs. ch. 117",
+   "title": "South Carolina Code of Regulations Chapter 117: Department of Revenue",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20117.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20117.pdf",
+     "sha256": "c89637c13c354d57f1defec1ef1b23ec264f743401f1d995d052aeff6c4fdbc4"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-119",
+   "short": "S.C. Regs. ch. 119",
+   "title": "South Carolina Code of Regulations Chapter 119: University of South Carolina",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20119.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20119.pdf",
+     "sha256": "a9ab02e601e43bf874f7ef18639688f34cd8654d1c34690b1dbf38ac6db510de"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-120",
+   "short": "S.C. Regs. ch. 120",
+   "title": "South Carolina Code of Regulations Chapter 120: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20120.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20120.pdf",
+     "sha256": "81f8825a0e3ff9f28988c76582dd8514345198f6cadbf95ac41e75294ee12760"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-121",
+   "short": "S.C. Regs. ch. 121",
+   "title": "South Carolina Code of Regulations Chapter 121: Department of Natural Resources",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20121.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20121.pdf",
+     "sha256": "684b694514c9cafa85aca7ffbb2d5e1f5e39104f7c65323b20196f2cb2656790"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-123",
+   "short": "S.C. Regs. ch. 123",
+   "title": "South Carolina Code of Regulations Chapter 123: Department of Natural Resources",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20123.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20123.pdf",
+     "sha256": "179663ce40d777e2bbd997e1c6b78c782fff6ad10c3d6779283dfce213b6b43b"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-125",
+   "short": "S.C. Regs. ch. 125",
+   "title": "South Carolina Code of Regulations Chapter 125: Winthrop University",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20125.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20125.pdf",
+     "sha256": "c6a038f9f88de5ebc3a97b36798c1f3893e74ef748a1480108c87d41c21552a6"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-126",
+   "short": "S.C. Regs. ch. 126",
+   "title": "South Carolina Code of Regulations Chapter 126: Department of Health and Human Services",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20126.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20126.pdf",
+     "sha256": "6dfff7e55f67cb3fcd5706be72c335c09d8a659e7c288c5b4055ac64e93f8738"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-127",
+   "short": "S.C. Regs. ch. 127",
+   "title": "South Carolina Code of Regulations Chapter 127: South Carolina Occupational Health",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20127.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20127.pdf",
+     "sha256": "dbb2a3a94dc6be3d8f6b9418f6d35feb04a1307cb898da5cc2863168f142d5cc"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-130",
+   "short": "S.C. Regs. ch. 130",
+   "title": "South Carolina Code of Regulations Chapter 130: Department of Probation, Parole",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20130.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20130.pdf",
+     "sha256": "a6730c63c66c12748264a7a84928610dfcf995a93ecda9625c60e62257ed0901"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-131",
+   "short": "S.C. Regs. ch. 131",
+   "title": "South Carolina Code of Regulations Chapter 131: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20131.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20131.pdf",
+     "sha256": "acb3c43382bcafa32540f9014e82994ea53f0034b4ea17c77872d36d3d83a0c5"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-132",
+   "short": "S.C. Regs. ch. 132",
+   "title": "South Carolina Code of Regulations Chapter 132: South Carolina Crime Victim’s Advisory Board",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20132.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20132.pdf",
+     "sha256": "2c842306eb869d2be4f0d1930e9bd52886c58b854e7722129a07fab6b5e4cdf6"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-133",
+   "short": "S.C. Regs. ch. 133",
+   "title": "South Carolina Code of Regulations Chapter 133: Department of Parks, Recreation and Tourism",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20133.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20133.pdf",
+     "sha256": "619ace0b9862107d1689a11eb9457f4ef09e44fbc22ff05c8403d85436ea023d"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-134",
+   "short": "S.C. Regs. ch. 134",
+   "title": "South Carolina Code of Regulations Chapter 134: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20134.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20134.pdf",
+     "sha256": "b20683184db39b5718a039144efa299b47f26e03dcd29cee97ddefddde2a6a27"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-136",
+   "short": "S.C. Regs. ch. 136",
+   "title": "South Carolina Code of Regulations Chapter 136: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20136.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20136.pdf",
+     "sha256": "8c9ad6956235fe3562ef350af2c9c5389f8d952c10ef93d0b30a4ea35a3582e3"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-137",
+   "short": "S.C. Regs. ch. 137",
+   "title": "South Carolina Code of Regulations Chapter 137: Department of Labor, Licensing and Regulation—",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20137.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20137.pdf",
+     "sha256": "4ab2ba78456a6d986d2a6af21a7f329ec2c2dbe1e605cc07ac0dfc78a93ce5a4"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-ch-139",
+   "short": "S.C. Regs. ch. 139",
+   "title": "South Carolina Code of Regulations Chapter 139: Commission for Minority Affairs",
+   "url": "https://www.scstatehouse.gov/coderegs/Chapter%20139.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.scstatehouse.gov/coderegs/Chapter%20139.pdf",
+     "sha256": "950cd75dfd9d3597d4fd39821c3132a1cda8b8763a4310dd8765c8fb7e9c5572"
+    }
+   ]
   }
  ]
 }

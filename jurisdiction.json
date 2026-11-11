@@ -1,0 +1,9 @@
+{
+  "path": "us-sc",
+  "code": "SC",
+  "name": "South Carolina",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-south-carolina-law",
+  "build": "Constitution, 1,303 Code of Laws chapters, and 94 Code of Regulations chapters; one version each, oldest version available",
+  "register_date": "2026-10-30"
+}

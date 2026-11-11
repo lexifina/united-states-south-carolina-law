@@ -1,0 +1,7 @@
+# South Carolina Code of Regulations Chapter 81: Department of Labor, Licensing and Regulation—
+
+S.C. Regs. ch. 81 · 1 versions, from 2025-05-23 (latest in force: 2025-05-23) · <https://www.scstatehouse.gov/coderegs/Chapter%2081.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Chapter 81 complete PDF text layer | [text.md](text.md) | 0 |  |

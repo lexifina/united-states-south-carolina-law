@@ -1,6 +1,6 @@
 # How this repository was made (United States (South Carolina))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | South Carolina Legislative Council: South Carolina Code of Laws (unannotated) | <https://www.scstatehouse.gov/code/statmast.php> | 2026-10-30 and 2026-11-03 | The site states: "The South Carolina Code, consisting only of Code text, numbering, history, and Effect of Amendment, Editor's, and Code Commissioner's notes may be copied from this website at the reader's expense and effort without need for permission." The web version is not official; the print code is. |
 | South Carolina Legislative Council: Constitution of the State of South Carolina (unannotated) | <https://www.scstatehouse.gov/scconstitution/SCConstitution.pdf> | 2026-10-30 | The site states the unannotated Constitution may be copied without need for permission. |
+| South Carolina Legislative Council, unannotated Code of Regulations | <https://www.scstatehouse.gov/coderegs/statmast.php> | 2026-11-11 | The unannotated South Carolina Code of Regulations, consisting only of Regulation text, numbering, and history, may be copied from this website at the reader's expense and effort without need for permission. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1319,20 +1320,124 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-63-ch-17` | South Carolina Code of Laws Title 63 - SOUTH CAROLINA CHILDREN'S CODE CHAPTER 17 Paternity and Child Support ARTICLE 1 Paternity DERIVATION TABLE Showing the sections in former Chapter 7, Title 20 from which the sections in this article were derived. NewSection FormerSection 63-17-10 20-7-952 63-17-20 20-7-953 63-17-30 20-7-954 63-17-40 20-7-955 63-17-50 20-7-958 63-17-60 20-7-956 63-17-70 20-7-957 | 1 | 2026-11-02 to 2026-11-02 |
 | `title-63-ch-19` | South Carolina Code of Laws Title 63 - SOUTH CAROLINA CHILDREN'S CODE CHAPTER 19 Juvenile Justice Code ARTICLE 1 General Provisions DERIVATION TABLE Showing the sections in former Chapter 7, Title 20 from which the sections in this article were derived. NewSection FormerSection 63-19-10 20-7-6600 63-19-20 20-7-6605 63-19-30 20-7-6610 | 1 | 2026-11-02 to 2026-11-02 |
 | `title-63-ch-21` | South Carolina Code of Laws Title 63 - SOUTH CAROLINA CHILDREN'S CODE CHAPTER 21 Persons with Disabilities Right to Parent Act Editor's Note 2017 Act No. 36, | 1 | 2026-11-02 to 2026-11-02 |
+| `regulation-ch-001` | South Carolina Code of Regulations Chapter 1: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-003` | South Carolina Code of Regulations Chapter 3: Department of Commerce—Aeronautics Division | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-005` | South Carolina Code of Regulations Chapter 5: Department of Agriculture | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-007` | South Carolina Code of Regulations Chapter 7: Alcoholic Beverages, Beer and Wine | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-008` | South Carolina Code of Regulations Chapter 8: Building Codes Council | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-009` | South Carolina Code of Regulations Chapter 9: Institute of Archeology and Anthropology | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-010` | South Carolina Code of Regulations Chapter 10: Department of Labor, Licensing and Regulation | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-011` | South Carolina Code of Regulations Chapter 11: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-012` | South Carolina Code of Regulations Chapter 12: South Carolina Department of Archives and History | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-013` | South Carolina Code of Regulations Chapter 13: Attorney General | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-014` | South Carolina Code of Regulations Chapter 14: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-015` | South Carolina Code of Regulations Chapter 15: State Board of Financial Institutions | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-016` | South Carolina Code of Regulations Chapter 16: South Carolina Conservation Bank | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-017` | South Carolina Code of Regulations Chapter 17: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-018` | South Carolina Code of Regulations Chapter 18: South Carolina Commission for the Blind | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-019` | South Carolina Code of Regulations Chapter 19: State Budget and Control Board | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-020` | South Carolina Code of Regulations Chapter 20: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-021` | South Carolina Code of Regulations Chapter 21: South Carolina Perpetual Care Cemetery Board | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-022` | South Carolina Code of Regulations Chapter 22: Coastal Carolina University | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-023` | South Carolina Code of Regulations Chapter 23: The College of Charleston | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-024` | South Carolina Code of Regulations Chapter 24: Office of the Governor— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-025` | South Carolina Code of Regulations Chapter 25: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-026` | South Carolina Code of Regulations Chapter 26: The Citadel | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-027` | South Carolina Code of Regulations Chapter 27: Clemson University | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-028` | South Carolina Code of Regulations Chapter 28: Department of Consumer Affairs | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-029` | South Carolina Code of Regulations Chapter 29: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-031` | South Carolina Code of Regulations Chapter 31: Office of the Governor— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-033` | South Carolina Code of Regulations Chapter 33: Department of Corrections | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-035` | South Carolina Code of Regulations Chapter 35: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-036` | South Carolina Code of Regulations Chapter 36: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-037` | South Carolina Code of Regulations Chapter 37: South Carolina Criminal Justice Academy | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-038` | South Carolina Code of Regulations Chapter 38: Department of Public Safety | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-039` | South Carolina Code of Regulations Chapter 39: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-040` | South Carolina Code of Regulations Chapter 40: Department of Labor, Licensing and | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-041` | South Carolina Code of Regulations Chapter 41: South Carolina Board of Genetic Counselors | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-042` | South Carolina Code of Regulations Chapter 42: State Education Assistance Authority | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-043` | South Carolina Code of Regulations Chapter 43: State Board of Education | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-044` | South Carolina Code of Regulations Chapter 44: South Carolina Lottery Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-045` | South Carolina Code of Regulations Chapter 45: State Election Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-047` | South Carolina Code of Regulations Chapter 47: Department of Employment and Workforce | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-049` | South Carolina Code of Regulations Chapter 49: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-050` | South Carolina Code of Regulations Chapter 50: South Carolina State Board of Examiners for | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-051` | South Carolina Code of Regulations Chapter 51: South Carolina Environmental Certification Board | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-052` | South Carolina Code of Regulations Chapter 52: State Ethics Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-053` | South Carolina Code of Regulations Chapter 53: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-055` | South Carolina Code of Regulations Chapter 55: South Carolina Forestry Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-057` | South Carolina Code of Regulations Chapter 57: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-058` | South Carolina Code of Regulations Chapter 58: Office of the Governor | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-060` | South Carolina Code of Regulations Chapter 60: Department of Public Health | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-062` | South Carolina Code of Regulations Chapter 62: State Commission on Higher Education | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-063` | South Carolina Code of Regulations Chapter 63: Department of Transportation | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-064` | South Carolina Code of Regulations Chapter 64: South Carolina State Housing Finance | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-065` | South Carolina Code of Regulations Chapter 65: South Carolina Human Affairs Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-067` | South Carolina Code of Regulations Chapter 67: South Carolina Workers’ Compensation Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-068` | South Carolina Code of Regulations Chapter 68: South Carolina Jobs—Economic | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-071` | South Carolina Code of Regulations Chapter 71: Department of Labor, Licensing and | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-072` | South Carolina Code of Regulations Chapter 72: Department of Environmental Services— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-073` | South Carolina Code of Regulations Chapter 73: South Carolina Law Enforcement Division | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-075` | South Carolina Code of Regulations Chapter 75: South Carolina State Library | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-076` | South Carolina Code of Regulations Chapter 76: Board of Landscape Architectural Examiners | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-077` | South Carolina Code of Regulations Chapter 77: Massage Therapy Board | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-080` | South Carolina Code of Regulations Chapter 80: The South Carolina Maritime Security | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-081` | South Carolina Code of Regulations Chapter 81: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-083` | South Carolina Code of Regulations Chapter 83: The Medical University of South Carolina | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-087` | South Carolina Code of Regulations Chapter 87: Department of Mental Health | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-088` | South Carolina Code of Regulations Chapter 88: Department of Disabilities and Special Needs | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-089` | South Carolina Code of Regulations Chapter 89: Office of the Governor—Mining | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-090` | South Carolina Code of Regulations Chapter 90: Department of Motor Vehicles | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-091` | South Carolina Code of Regulations Chapter 91: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-093` | South Carolina Code of Regulations Chapter 93: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-094` | South Carolina Code of Regulations Chapter 94: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-095` | South Carolina Code of Regulations Chapter 95: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-096` | South Carolina Code of Regulations Chapter 96: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-099` | South Carolina Code of Regulations Chapter 99: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-100` | South Carolina Code of Regulations Chapter 100: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-101` | South Carolina Code of Regulations Chapter 101: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-102` | South Carolina Code of Regulations Chapter 102: Attorney General—Division of Public Charities | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-103` | South Carolina Code of Regulations Chapter 103: Public Service Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-104` | South Carolina Code of Regulations Chapter 104: South Carolina State Ports Authority | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-105` | South Carolina Code of Regulations Chapter 105: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-106` | South Carolina Code of Regulations Chapter 106: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-108` | South Carolina Code of Regulations Chapter 108: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-110` | South Carolina Code of Regulations Chapter 110: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-111` | South Carolina Code of Regulations Chapter 111: Office of Regulatory Staff | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-112` | South Carolina Code of Regulations Chapter 112: State Reorganization Commission | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-113` | South Carolina Code of Regulations Chapter 113: Secretary of State | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-114` | South Carolina Code of Regulations Chapter 114: Department of Social Services | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-115` | South Carolina Code of Regulations Chapter 115: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-117` | South Carolina Code of Regulations Chapter 117: Department of Revenue | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-119` | South Carolina Code of Regulations Chapter 119: University of South Carolina | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-120` | South Carolina Code of Regulations Chapter 120: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-121` | South Carolina Code of Regulations Chapter 121: Department of Natural Resources | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-123` | South Carolina Code of Regulations Chapter 123: Department of Natural Resources | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-125` | South Carolina Code of Regulations Chapter 125: Winthrop University | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-126` | South Carolina Code of Regulations Chapter 126: Department of Health and Human Services | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-127` | South Carolina Code of Regulations Chapter 127: South Carolina Occupational Health | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-130` | South Carolina Code of Regulations Chapter 130: Department of Probation, Parole | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-131` | South Carolina Code of Regulations Chapter 131: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-132` | South Carolina Code of Regulations Chapter 132: South Carolina Crime Victim’s Advisory Board | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-133` | South Carolina Code of Regulations Chapter 133: Department of Parks, Recreation and Tourism | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-134` | South Carolina Code of Regulations Chapter 134: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-136` | South Carolina Code of Regulations Chapter 136: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-137` | South Carolina Code of Regulations Chapter 137: Department of Labor, Licensing and Regulation— | 1 | 2026-03-27 to 2026-03-27 |
+| `regulation-ch-139` | South Carolina Code of Regulations Chapter 139: Commission for Minority Affairs | 1 | 2026-03-27 to 2026-03-27 |
 
-The build made 1304 commits:
+The build made 1408 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1304 | first version of an act |
+| 1408 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1304 tags.
+- 1408 tags.
 
 ## Dates
 
@@ -1344,8 +1449,8 @@ When a law gives no date of its own, the default rule applies: Oldest version av
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1f539a69acf9251fbe975a75bd115d75b1c531b0d4600c87f5d677513482b778` (50383121 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `4a9df5c97a416df39fb207f65445408ea353706dbbd8d001f89b27beac2b8123` (66031692 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -1361,6 +1466,7 @@ No second build of this corpus has been compared yet.
 - Title 16 (Crimes and Offenses), Title 33 chapters 1 to 20 (corporations) and Title 27 chapters 1 to 8 (property) were taken. Editor's notes, Code Commissioner's notes and Effect of Amendment notes were left out.
 - The Constitution text is read from the Legislative Council PDF; its HTML pages returned not-found.
 - Wave 3 (2026-11-03): every other chapter of the Code was added by the same rules, one act per chapter, each one oldest-version-available version dated 2026-11-02, the day before retrieval (2026-11-03), as in the first build. Chapters with no sections (repealed or reserved) are left out. Where the Code prints one section number twice (a text effective until a contingency and the text that would replace it, or a later-effective text), both are kept, the second as <section>-v2.
+- Each chapter is an oldest-version-available current text from the Legislative Council PDF text layer, kept as one file. The source states the Code is current through State Register Volume 50, Issue 3, effective March 27, 2026; that source currency date is used for this version. No OCR or model text edits were made.
 
 ## What AI did and did not do
 
@@ -1371,4 +1477,5 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- none
 - none
